@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 72ea784099ec7ba4d8564589fb4b5a44
+timeCreated: 1503162748
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ethylene
+    100002: Ethylene_001
+    100004: Ethylene_002
+    100006: Ethylene_003
+    100008: Ethylene_004
+    100010: Ethylene_005
+    100012: Ethylene_006
+    100014: Ethylene_007
+    100016: Ethylene_008
+    100018: Ethylene_009
+    100020: Ethylene_010
+    100022: Ethylene_011
+    100024: //RootNode
+    400000: Ethylene
+    400002: Ethylene_001
+    400004: Ethylene_002
+    400006: Ethylene_003
+    400008: Ethylene_004
+    400010: Ethylene_005
+    400012: Ethylene_006
+    400014: Ethylene_007
+    400016: Ethylene_008
+    400018: Ethylene_009
+    400020: Ethylene_010
+    400022: Ethylene_011
+    400024: //RootNode
+    2300000: Ethylene
+    2300002: Ethylene_001
+    2300004: Ethylene_002
+    2300006: Ethylene_003
+    2300008: Ethylene_004
+    2300010: Ethylene_005
+    2300012: Ethylene_006
+    2300014: Ethylene_007
+    2300016: Ethylene_008
+    2300018: Ethylene_009
+    2300020: Ethylene_010
+    2300022: Ethylene_011
+    3300000: Ethylene
+    3300002: Ethylene_001
+    3300004: Ethylene_002
+    3300006: Ethylene_003
+    3300008: Ethylene_004
+    3300010: Ethylene_005
+    3300012: Ethylene_006
+    3300014: Ethylene_007
+    3300016: Ethylene_008
+    3300018: Ethylene_009
+    3300020: Ethylene_010
+    3300022: Ethylene_011
+    4300000: Ethylene_011
+    4300002: Ethylene_010
+    4300004: Ethylene_009
+    4300006: Ethylene_008
+    4300008: Ethylene_007
+    4300010: Ethylene_006
+    4300012: Ethylene_005
+    4300014: Ethylene_004
+    4300016: Ethylene_003
+    4300018: Ethylene_002
+    4300020: Ethylene_001
+    4300022: Ethylene
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

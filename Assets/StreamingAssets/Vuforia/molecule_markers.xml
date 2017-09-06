@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="methane1" size="50.000000 58.386414" />
+    <ImageTarget name="methane_hybrid1" size="50.000000 58.484848" />
+    <ImageTarget name="tetrahedron" size="50.000000 50.000000" />
+    <ImageTarget name="glyceraldehyde" size="50.000000 27.500000" />
+    <ImageTarget name="ethyne" size="50.000000 17.756681" />
+    <ImageTarget name="ethylene" size="50.000000 16.115412" />
+    <ImageTarget name="cyclohexane" size="50.000000 16.974171" />
+    <ImageTarget name="benzol" size="50.000000 22.000000" />
+    <ImageTarget name="merck_logo" size="50.000000 31.306082" />
+  </Tracking>
+</QCARConfig>

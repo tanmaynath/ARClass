@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: ffb9616c60312c14db316ab70bd03e9d
+timeCreated: 1503404031
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: L-Glyceraldehyde
+    100004: L-Glyceraldehyde_001
+    100006: L-Glyceraldehyde_002
+    100008: L-Glyceraldehyde_003
+    100010: L-Glyceraldehyde_004
+    100012: L-Glyceraldehyde_005
+    100014: L-Glyceraldehyde_006
+    100016: L-Glyceraldehyde_007
+    100018: L-Glyceraldehyde_008
+    100020: L-Glyceraldehyde_009
+    100022: L-Glyceraldehyde_010
+    100024: L-Glyceraldehyde_011
+    100026: L-Glyceraldehyde_013
+    100028: L-Glyceraldehyde_014
+    100030: L-Glyceraldehyde_016
+    100032: L-Glyceraldehyde_018
+    100034: L-Glyceraldehyde_021
+    100036: L-Glyceraldehyde_023
+    100038: L-Glyceraldehyde_024
+    100040: L-Glyceraldehyde_025
+    100042: L-Glyceraldehyde_026
+    100044: L-Glyceraldehyde_028
+    100046: L-Glyceraldehyde_029
+    100048: L-Glyceraldehyde_032
+    100050: L-Glyceraldehyde_033
+    100052: L-Glyceraldehyde_035
+    400000: L-Glyceraldehyde
+    400002: //RootNode
+    400004: L-Glyceraldehyde_001
+    400006: L-Glyceraldehyde_002
+    400008: L-Glyceraldehyde_003
+    400010: L-Glyceraldehyde_004
+    400012: L-Glyceraldehyde_005
+    400014: L-Glyceraldehyde_006
+    400016: L-Glyceraldehyde_007
+    400018: L-Glyceraldehyde_008
+    400020: L-Glyceraldehyde_009
+    400022: L-Glyceraldehyde_010
+    400024: L-Glyceraldehyde_011
+    400026: L-Glyceraldehyde_013
+    400028: L-Glyceraldehyde_014
+    400030: L-Glyceraldehyde_016
+    400032: L-Glyceraldehyde_018
+    400034: L-Glyceraldehyde_021
+    400036: L-Glyceraldehyde_023
+    400038: L-Glyceraldehyde_024
+    400040: L-Glyceraldehyde_025
+    400042: L-Glyceraldehyde_026
+    400044: L-Glyceraldehyde_028
+    400046: L-Glyceraldehyde_029
+    400048: L-Glyceraldehyde_032
+    400050: L-Glyceraldehyde_033
+    400052: L-Glyceraldehyde_035
+    2300000: L-Glyceraldehyde
+    2300002: L-Glyceraldehyde_001
+    2300004: L-Glyceraldehyde_002
+    2300006: L-Glyceraldehyde_003
+    2300008: L-Glyceraldehyde_004
+    2300010: L-Glyceraldehyde_005
+    2300012: L-Glyceraldehyde_006
+    2300014: L-Glyceraldehyde_007
+    2300016: L-Glyceraldehyde_008
+    2300018: L-Glyceraldehyde_009
+    2300020: L-Glyceraldehyde_010
+    2300022: L-Glyceraldehyde_011
+    2300024: L-Glyceraldehyde_013
+    2300026: L-Glyceraldehyde_014
+    2300028: L-Glyceraldehyde_016
+    2300030: L-Glyceraldehyde_018
+    2300032: L-Glyceraldehyde_021
+    2300034: L-Glyceraldehyde_023
+    2300036: L-Glyceraldehyde_024
+    2300038: L-Glyceraldehyde_025
+    2300040: L-Glyceraldehyde_026
+    2300042: L-Glyceraldehyde_028
+    2300044: L-Glyceraldehyde_029
+    2300046: L-Glyceraldehyde_032
+    2300048: L-Glyceraldehyde_033
+    2300050: L-Glyceraldehyde_035
+    3300000: L-Glyceraldehyde
+    3300002: L-Glyceraldehyde_001
+    3300004: L-Glyceraldehyde_002
+    3300006: L-Glyceraldehyde_003
+    3300008: L-Glyceraldehyde_004
+    3300010: L-Glyceraldehyde_005
+    3300012: L-Glyceraldehyde_006
+    3300014: L-Glyceraldehyde_007
+    3300016: L-Glyceraldehyde_008
+    3300018: L-Glyceraldehyde_009
+    3300020: L-Glyceraldehyde_010
+    3300022: L-Glyceraldehyde_011
+    3300024: L-Glyceraldehyde_013
+    3300026: L-Glyceraldehyde_014
+    3300028: L-Glyceraldehyde_016
+    3300030: L-Glyceraldehyde_018
+    3300032: L-Glyceraldehyde_021
+    3300034: L-Glyceraldehyde_023
+    3300036: L-Glyceraldehyde_024
+    3300038: L-Glyceraldehyde_025
+    3300040: L-Glyceraldehyde_026
+    3300042: L-Glyceraldehyde_028
+    3300044: L-Glyceraldehyde_029
+    3300046: L-Glyceraldehyde_032
+    3300048: L-Glyceraldehyde_033
+    3300050: L-Glyceraldehyde_035
+    4300000: L-Glyceraldehyde_035
+    4300002: L-Glyceraldehyde_033
+    4300004: L-Glyceraldehyde_032
+    4300006: L-Glyceraldehyde_029
+    4300008: L-Glyceraldehyde_028
+    4300010: L-Glyceraldehyde_026
+    4300012: L-Glyceraldehyde_025
+    4300014: L-Glyceraldehyde_024
+    4300016: L-Glyceraldehyde_023
+    4300018: L-Glyceraldehyde_021
+    4300020: L-Glyceraldehyde_018
+    4300022: L-Glyceraldehyde_016
+    4300024: L-Glyceraldehyde_014
+    4300026: L-Glyceraldehyde_013
+    4300028: L-Glyceraldehyde_011
+    4300030: L-Glyceraldehyde_010
+    4300032: L-Glyceraldehyde_009
+    4300034: L-Glyceraldehyde_008
+    4300036: L-Glyceraldehyde_007
+    4300038: L-Glyceraldehyde_006
+    4300040: L-Glyceraldehyde_005
+    4300042: L-Glyceraldehyde_004
+    4300044: L-Glyceraldehyde_003
+    4300046: L-Glyceraldehyde_002
+    4300048: L-Glyceraldehyde_001
+    4300050: L-Glyceraldehyde
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

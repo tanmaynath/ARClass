@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 85d217eab8ecac447978318cb5a82ade
+timeCreated: 1503173943
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: THF
+    100004: THF_002
+    100006: THF_003
+    100008: THF_005
+    100010: THF_006
+    100012: THF_008
+    100014: THF_010
+    100016: THF_011
+    100018: THF_013
+    100020: THF_016
+    100022: THF_017
+    100024: THF_020
+    100026: THF_021
+    100028: THF_023
+    100030: THF_025
+    100032: THF_026
+    100034: THF_027
+    100036: THF_028
+    100038: THF_029
+    100040: THF_030
+    100042: THF_031
+    100044: THF_032
+    100046: THF_033
+    100048: THF_034
+    100050: THF_035
+    100052: THF_036
+    400000: THF
+    400002: //RootNode
+    400004: THF_002
+    400006: THF_003
+    400008: THF_005
+    400010: THF_006
+    400012: THF_008
+    400014: THF_010
+    400016: THF_011
+    400018: THF_013
+    400020: THF_016
+    400022: THF_017
+    400024: THF_020
+    400026: THF_021
+    400028: THF_023
+    400030: THF_025
+    400032: THF_026
+    400034: THF_027
+    400036: THF_028
+    400038: THF_029
+    400040: THF_030
+    400042: THF_031
+    400044: THF_032
+    400046: THF_033
+    400048: THF_034
+    400050: THF_035
+    400052: THF_036
+    2300000: THF
+    2300002: THF_002
+    2300004: THF_003
+    2300006: THF_005
+    2300008: THF_006
+    2300010: THF_008
+    2300012: THF_010
+    2300014: THF_011
+    2300016: THF_013
+    2300018: THF_016
+    2300020: THF_017
+    2300022: THF_020
+    2300024: THF_021
+    2300026: THF_023
+    2300028: THF_025
+    2300030: THF_026
+    2300032: THF_027
+    2300034: THF_028
+    2300036: THF_029
+    2300038: THF_030
+    2300040: THF_031
+    2300042: THF_032
+    2300044: THF_033
+    2300046: THF_034
+    2300048: THF_035
+    2300050: THF_036
+    3300000: THF
+    3300002: THF_002
+    3300004: THF_003
+    3300006: THF_005
+    3300008: THF_006
+    3300010: THF_008
+    3300012: THF_010
+    3300014: THF_011
+    3300016: THF_013
+    3300018: THF_016
+    3300020: THF_017
+    3300022: THF_020
+    3300024: THF_021
+    3300026: THF_023
+    3300028: THF_025
+    3300030: THF_026
+    3300032: THF_027
+    3300034: THF_028
+    3300036: THF_029
+    3300038: THF_030
+    3300040: THF_031
+    3300042: THF_032
+    3300044: THF_033
+    3300046: THF_034
+    3300048: THF_035
+    3300050: THF_036
+    4300000: THF_036
+    4300002: THF_035
+    4300004: THF_034
+    4300006: THF_033
+    4300008: THF_032
+    4300010: THF_031
+    4300012: THF_030
+    4300014: THF_029
+    4300016: THF_028
+    4300018: THF_027
+    4300020: THF_026
+    4300022: THF_025
+    4300024: THF_023
+    4300026: THF_021
+    4300028: THF_020
+    4300030: THF_017
+    4300032: THF_016
+    4300034: THF_013
+    4300036: THF_011
+    4300038: THF_010
+    4300040: THF_008
+    4300042: THF_006
+    4300044: THF_005
+    4300046: THF_003
+    4300048: THF_002
+    4300050: THF
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

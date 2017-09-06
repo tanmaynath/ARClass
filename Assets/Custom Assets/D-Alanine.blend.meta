@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: d27791ad76ed85d4ca1b0698f62e9910
+timeCreated: 1503246528
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: D-Alanine
+    100002: //RootNode
+    100004: D-Alanine_001
+    100006: D-Alanine_004
+    100008: D-Alanine_005
+    100010: D-Alanine_006
+    100012: D-Alanine_008
+    100014: D-Alanine_010
+    100016: D-Alanine_013
+    100018: D-Alanine_014
+    100020: D-Alanine_015
+    100022: D-Alanine_018
+    100024: D-Alanine_019
+    100026: D-Alanine_021
+    100028: D-Alanine_024
+    100030: D-Alanine_025
+    100032: D-Alanine_027
+    100034: D-Alanine_028
+    100036: D-Alanine_029
+    100038: D-Alanine_030
+    100040: D-Alanine_031
+    100042: D-Alanine_032
+    100044: D-Alanine_033
+    100046: D-Alanine_034
+    100048: D-Alanine_035
+    100050: D-Alanine_036
+    100052: D-Alanine_037
+    100054: D-Alanine_038
+    100056: D-Alanine_039
+    400000: D-Alanine
+    400002: //RootNode
+    400004: D-Alanine_001
+    400006: D-Alanine_004
+    400008: D-Alanine_005
+    400010: D-Alanine_006
+    400012: D-Alanine_008
+    400014: D-Alanine_010
+    400016: D-Alanine_013
+    400018: D-Alanine_014
+    400020: D-Alanine_015
+    400022: D-Alanine_018
+    400024: D-Alanine_019
+    400026: D-Alanine_021
+    400028: D-Alanine_024
+    400030: D-Alanine_025
+    400032: D-Alanine_027
+    400034: D-Alanine_028
+    400036: D-Alanine_029
+    400038: D-Alanine_030
+    400040: D-Alanine_031
+    400042: D-Alanine_032
+    400044: D-Alanine_033
+    400046: D-Alanine_034
+    400048: D-Alanine_035
+    400050: D-Alanine_036
+    400052: D-Alanine_037
+    400054: D-Alanine_038
+    400056: D-Alanine_039
+    2300000: D-Alanine
+    2300002: D-Alanine_001
+    2300004: D-Alanine_004
+    2300006: D-Alanine_005
+    2300008: D-Alanine_006
+    2300010: D-Alanine_008
+    2300012: D-Alanine_010
+    2300014: D-Alanine_013
+    2300016: D-Alanine_014
+    2300018: D-Alanine_015
+    2300020: D-Alanine_018
+    2300022: D-Alanine_019
+    2300024: D-Alanine_021
+    2300026: D-Alanine_024
+    2300028: D-Alanine_025
+    2300030: D-Alanine_027
+    2300032: D-Alanine_028
+    2300034: D-Alanine_029
+    2300036: D-Alanine_030
+    2300038: D-Alanine_031
+    2300040: D-Alanine_032
+    2300042: D-Alanine_033
+    2300044: D-Alanine_034
+    2300046: D-Alanine_035
+    2300048: D-Alanine_036
+    2300050: D-Alanine_037
+    2300052: D-Alanine_038
+    2300054: D-Alanine_039
+    3300000: D-Alanine
+    3300002: D-Alanine_001
+    3300004: D-Alanine_004
+    3300006: D-Alanine_005
+    3300008: D-Alanine_006
+    3300010: D-Alanine_008
+    3300012: D-Alanine_010
+    3300014: D-Alanine_013
+    3300016: D-Alanine_014
+    3300018: D-Alanine_015
+    3300020: D-Alanine_018
+    3300022: D-Alanine_019
+    3300024: D-Alanine_021
+    3300026: D-Alanine_024
+    3300028: D-Alanine_025
+    3300030: D-Alanine_027
+    3300032: D-Alanine_028
+    3300034: D-Alanine_029
+    3300036: D-Alanine_030
+    3300038: D-Alanine_031
+    3300040: D-Alanine_032
+    3300042: D-Alanine_033
+    3300044: D-Alanine_034
+    3300046: D-Alanine_035
+    3300048: D-Alanine_036
+    3300050: D-Alanine_037
+    3300052: D-Alanine_038
+    3300054: D-Alanine_039
+    4300000: D-Alanine_039
+    4300002: D-Alanine_038
+    4300004: D-Alanine_037
+    4300006: D-Alanine_036
+    4300008: D-Alanine_035
+    4300010: D-Alanine_034
+    4300012: D-Alanine_033
+    4300014: D-Alanine_032
+    4300016: D-Alanine_031
+    4300018: D-Alanine_030
+    4300020: D-Alanine_029
+    4300022: D-Alanine_028
+    4300024: D-Alanine_027
+    4300026: D-Alanine_025
+    4300028: D-Alanine_024
+    4300030: D-Alanine_021
+    4300032: D-Alanine_019
+    4300034: D-Alanine_018
+    4300036: D-Alanine_015
+    4300038: D-Alanine_014
+    4300040: D-Alanine_013
+    4300042: D-Alanine_010
+    4300044: D-Alanine_008
+    4300046: D-Alanine_006
+    4300048: D-Alanine_005
+    4300050: D-Alanine_004
+    4300052: D-Alanine_001
+    4300054: D-Alanine
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

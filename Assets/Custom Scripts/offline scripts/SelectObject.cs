@@ -14,18 +14,17 @@ public class SelectObject : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if(Input.touchCount > 1){
-			if (Input.GetTouch (0).phase == TouchPhase.Began && Input.GetTouch (1).phase == TouchPhase.Began) {
 				
-				Ray ray = Camera.main.ScreenPointToRay (Input.GetTouch (1).position);
-				RaycastHit hit;
-				if (Physics.Raycast (ray, out hit)) {
+			Ray ray = Camera.main.ScreenPointToRay (Input.GetTouch (1).position);
+			RaycastHit hit;
+			if (Physics.Raycast (ray, out hit)) {
 				
-					gObj = hit.collider.transform.gameObject;
-					gObj.GetComponentInChildren <RotateObject> ().enabled = true;
+				gObj = hit.collider.transform.gameObject;
+				gObj.GetComponentInChildren <RotateObject> ().enabled = true;
 
-				}
 			}
-			else if (Input.GetTouch (0).phase == TouchPhase.Ended && Input.GetTouch (1).phase == TouchPhase.Ended) {
+			
+			if (Input.GetTouch (0).phase == TouchPhase.Ended && Input.GetTouch (1).phase == TouchPhase.Ended) {
 				print ("touch ended for:" + gObj.name);
 				gObj.GetComponentInChildren<RotateObject> ().enabled = false;
 			}

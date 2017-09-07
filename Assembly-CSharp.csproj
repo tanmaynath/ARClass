@@ -82,6 +82,7 @@
      <Compile Include="Assets\Custom Scripts\offline scripts\OfflineSwipe.cs" />
      <Compile Include="Assets\Custom Scripts\offline scripts\PerspectiveTouch.cs" />
      <Compile Include="Assets\Custom Scripts\offline scripts\RotateObject.cs" />
+     <Compile Include="Assets\Custom Scripts\offline scripts\SelectObject.cs" />
      <Compile Include="Assets\Custom Scripts\offline scripts\Spawn.cs" />
      <Compile Include="Assets\Custom Scripts\offline scripts\SwipeTrail.cs" />
      <Compile Include="Assets\Custom Scripts\offline scripts\UndoTrail.cs" />

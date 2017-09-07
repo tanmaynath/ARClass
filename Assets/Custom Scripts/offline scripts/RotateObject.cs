@@ -7,9 +7,9 @@ public class RotateObject : MonoBehaviour {
 	public float rotFactor;
 	Plane objPlane;
 	public GameObject gObj;
-	Vector3 startPos, endPos, offset;
+	Vector3 startPos, endPos, offset, midPoint;
 	Quaternion target;
-	Touch currentPos;
+	Touch finger1, finger2;
 
 //	Ray GenerateRay() {
 //		Vector3 touchPosFar = new Vector3 (Input.GetTouch (0).position.x, Input.GetTouch (0).position.y, Camera.main.farClipPlane);
@@ -28,35 +28,47 @@ public class RotateObject : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-
+		//Input.GetTouch (0).phase == TouchPhase.Began &&
 		if (Input.touchCount == 2 && Input.GetTouch (0).phase == TouchPhase.Began &&
-		    Input.GetTouch (1).phase == TouchPhase.Began || Input.GetMouseButtonDown (0)) {
-			currentPos = Input.GetTouch (0);
-			print ("id:" + currentPos.fingerId);
-			//Ray touchRay = GenerateRay ();
-			Ray ray = Camera.main.ScreenPointToRay (Input.mousePosition);
-			float rayDistance;
-			if (objPlane.Raycast (ray, out rayDistance)) {
-				startPos = ray.GetPoint (rayDistance);
-			}
-		} else if (Input.touchCount == 2 && Input.GetTouch (0).phase == TouchPhase.Moved &&
-		         Input.GetTouch (1).phase == TouchPhase.Moved || Input.GetMouseButtonDown (0)) {
+			Input.GetTouch (1).phase == TouchPhase.Began) {
+			print ("here!!!!!!!!");
+			finger1 = Input.GetTouch (0);
+			finger2 = Input.GetTouch (1);
+			 
+			startPos = finger2.position;
+			print ("start pos: " + startPos);
+		} else if (Input.touchCount == 2 && 
+			Input.GetTouch (1).phase == TouchPhase.Moved ) {
 
-			Ray ray = Camera.main.ScreenPointToRay (Input.mousePosition);
-			float rayDistance;
-			if (objPlane.Raycast (ray, out rayDistance)) {
-				endPos = ray.GetPoint (rayDistance);
+			endPos = finger2.position;
+			print ("end pos: " + endPos);
+			offset = finger2.deltaPosition;
+			print ("offset: " + offset.x);
+			print ("target before: " + target);
+			target = Quaternion.Euler (0, 0, offset.x * rotFactor);
+			print ("target: " + target);
+			gObj.transform.rotation = Quaternion.Slerp (gObj.transform.rotation, target, Time.deltaTime * 5.0f);
+			
+//			Ray ray = Camera.main.ScreenPointToRay (finger2.position);
+//			float rayDistance;
+//			if (objPlane.Raycast (ray, out rayDistance)) {
+//				print("moved");
+//				endPos = ray.GetPoint (rayDistance);
+//
+//				offset = startPos - endPos;
+//				print ("offset: " + offset.x);
+//				print ("target before: " + target);
+//				target *= Quaternion.Euler (0, 0, offset.x * rotFactor);
+//				print ("target: " + target);
+//				gObj.transform.rotation = Quaternion.Slerp (gObj.transform.rotation, target, Time.deltaTime * 5.0f);
+//
+//			}
 
-				offset += startPos +currentPos.deltaPosition;
-				target = Quaternion.Euler (0, 0, offset.x * rotFactor);
-				print ("target: " + target);
-				gObj.transform.rotation = Quaternion.Slerp (gObj.transform.rotation, target, Time.deltaTime * 5.0f);
-
-			}
-
-		} else if (Input.touchCount == 2 && Input.GetTouch (0).phase == TouchPhase.Ended &&
-		        Input.GetTouch (1).phase == TouchPhase.Ended || Input.GetMouseButtonUp (0)) {
-			print (offset + "  " + gObj.transform.gameObject.name);
+		} 
+			else if (Input.touchCount == 2 && Input.GetTouch (0).phase == TouchPhase.Ended &&
+			Input.GetTouch (1).phase == TouchPhase.Ended || Input.GetMouseButtonDown (1)) {
+			//print (offset + "  " + gObj.transform.gameObject.name);
+			offset = new Vector3(0, 0, 0);
 
 
 		}

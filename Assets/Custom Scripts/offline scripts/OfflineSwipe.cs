@@ -47,7 +47,7 @@ public class OfflineSwipe : MonoBehaviour {
 					}
 				}
                 thisTrail = (GameObject)Instantiate(trailPrefab, this.transform.position, Quaternion.identity);
-				print ("trail instantiated");
+
                 Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
                 float rayDistance;
                 if (objPlane.Raycast(ray, out rayDistance))
